@@ -1,0 +1,122 @@
+﻿  BestScores.cpp
+BestScores.cpp(41): warning C4996: 'fcloseall': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fcloseall. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\stdio.h(2447): note: see declaration of 'fcloseall'
+BestScores.cpp(71): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+BestScores.cpp(72): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+BestScores.cpp(73): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+BestScores.cpp(74): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+BestScores.cpp(75): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+BestScores.cpp(76): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+BestScores.cpp(85): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+BestScores.cpp(88): warning C4996: 'fcloseall': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fcloseall. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\stdio.h(2447): note: see declaration of 'fcloseall'
+BestScores.cpp(98): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+BestScores.cpp(101): warning C4996: 'fcloseall': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fcloseall. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\stdio.h(2447): note: see declaration of 'fcloseall'
+BestScores.cpp(111): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+BestScores.cpp(114): warning C4996: 'fcloseall': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fcloseall. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\stdio.h(2447): note: see declaration of 'fcloseall'
+  CapDo.cpp
+c:\users\toan lv\documents\visual studio 2015\projects\appdev\minesweeper\minesweeper\Struct.h(3): warning C4005: 'max': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\minwindef.h(193): note: see previous definition of 'max'
+CapDo.cpp(80): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+CapDo.cpp(81): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+CapDo.cpp(86): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+CapDo.cpp(87): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+CapDo.cpp(92): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+CapDo.cpp(93): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+CapDo.cpp(97): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+CapDo.cpp(101): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+CapDo.cpp(105): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  HamHoTro.cpp
+  HowToPlay.cpp
+  Keyboard.cpp
+Keyboard.cpp(5): warning C4005: 'max': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\minwindef.h(193): note: see previous definition of 'max'
+Keyboard.cpp(30): warning C4244: 'initializing': conversion from 'DWORD' to 'float', possible loss of data
+  Menu.cpp
+  MoO.cpp
+MoO.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+MoO.cpp(4): warning C4005: 'max': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\minwindef.h(193): note: see previous definition of 'max'
+  NewGame.cpp
+c:\users\toan lv\documents\visual studio 2015\projects\appdev\minesweeper\minesweeper\Struct.h(3): warning C4005: 'max': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\minwindef.h(193): note: see previous definition of 'max'
+  PhatSinhMin.cpp
+  Save_Load.cpp
+c:\users\toan lv\documents\visual studio 2015\projects\appdev\minesweeper\minesweeper\Struct.h(3): warning C4005: 'max': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\minwindef.h(193): note: see previous definition of 'max'
+Save_Load.cpp(14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+Save_Load.cpp(15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+Save_Load.cpp(16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+Save_Load.cpp(26): warning C4996: 'fcloseall': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fcloseall. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\stdio.h(2447): note: see declaration of 'fcloseall'
+Save_Load.cpp(33): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+Save_Load.cpp(34): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+Save_Load.cpp(35): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+Save_Load.cpp(48): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+Save_Load.cpp(49): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+Save_Load.cpp(56): warning C4996: 'fcloseall': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fcloseall. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\stdio.h(2447): note: see declaration of 'fcloseall'
+  VeBanCo.cpp
+VeBanCo.cpp(5): warning C4309: 'initializing': truncation of constant value
+VeBanCo.cpp(6): warning C4309: 'initializing': truncation of constant value
+VeBanCo.cpp(7): warning C4309: 'initializing': truncation of constant value
+VeBanCo.cpp(8): warning C4309: 'initializing': truncation of constant value
+VeBanCo.cpp(9): warning C4309: 'initializing': truncation of constant value
+VeBanCo.cpp(10): warning C4309: 'initializing': truncation of constant value
+VeBanCo.cpp(11): warning C4309: 'initializing': truncation of constant value
+VeBanCo.cpp(12): warning C4309: 'initializing': truncation of constant value
+VeBanCo.cpp(13): warning C4309: 'initializing': truncation of constant value
+VeBanCo.cpp(14): warning C4309: 'initializing': truncation of constant value
+VeBanCo.cpp(15): warning C4309: 'initializing': truncation of constant value
+  VeBang.cpp
+VeBang.cpp(8): warning C4309: 'initializing': truncation of constant value
+VeBang.cpp(9): warning C4309: 'initializing': truncation of constant value
+VeBang.cpp(10): warning C4309: 'initializing': truncation of constant value
+VeBang.cpp(11): warning C4309: 'initializing': truncation of constant value
+VeBang.cpp(12): warning C4309: 'initializing': truncation of constant value
+VeBang.cpp(13): warning C4309: 'initializing': truncation of constant value
+  Win_Lose.cpp
+  XuLy.cpp
+XuLy.cpp(14): warning C4244: 'initializing': conversion from 'DWORD' to 'float', possible loss of data
+XuLy.cpp(42): warning C4244: 'initializing': conversion from 'DWORD' to 'float', possible loss of data
+XuLy.cpp(56): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+XuLy.cpp(101): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'char' can equal the given constant
+XuLy.cpp(96): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+XuLy.cpp(97): warning C4477: 'fscanf' : format string '%c' requires an argument of type 'char *', but variadic argument 1 has type 'bool *'
+XuLy.cpp(97): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+  Generating code
+c:\users\toan lv\documents\visual studio 2015\projects\appdev\minesweeper\minesweeper\bestscores.cpp(36): warning C4700: uninitialized local variable '_stream' used
+  All 77 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  MineSweeper.vcxproj -> C:\Users\TOAN LV\Documents\Visual Studio 2015\Projects\AppDev\MineSweeper\Release\MineSweeper.exe
